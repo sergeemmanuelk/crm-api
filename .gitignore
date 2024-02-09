@@ -32,6 +32,6 @@ build/
 ### VS Code ###
 .vscode/
 
-application.yaml
-application-dev.yaml
-application-ks8.yaml
+src/main/resources/application.yaml
+src/main/resources/application-dev.yaml
+src/main/resources/application-k8s.yaml
